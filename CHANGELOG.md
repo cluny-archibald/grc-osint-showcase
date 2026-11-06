@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to this repository are recorded here. Policy versions follow the conventions in [policies/README.md](policies/README.md).
+All notable changes to this repository are recorded here. Policy versions follow the conventions in [POLICIES.md](POLICIES.md).
 
 ## 6 November 2026
 

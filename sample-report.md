@@ -34,7 +34,7 @@ The assessment used public sources only: DNS, public web responses, published ce
 
 **What was not done:** no port scanning, no login attempts, no vulnerability testing and no exploitation. Nothing was accessed that a normal visitor or public data source could not see.
 
-Each finding is graded for evidence (Confirmed, Probable or Possible), basis (Observed or Inferred), severity and confidence. The grading scale is explained in the [evidence grading guide](../docs/evidence-grading.md).
+Each finding is graded for evidence (Confirmed, Probable or Possible), basis (Observed or Inferred), severity and confidence. The grading scale is explained in the [evidence grading guide](evidence-grading.md).
 
 ## 3. Summary of findings
 
